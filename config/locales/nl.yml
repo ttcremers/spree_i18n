@@ -330,7 +330,6 @@ nl:
         one: '1 fout voorkwam dat deze %{resource} werd opgeslagen:'
         other: "%{count} fouten voorkwamen dat deze %{resource} werd opgeslagen:"
   spree:
-    quick_search: Zoeken
     abbreviation: Afkorting
     accept:
     acceptance_errors:
@@ -1024,7 +1023,7 @@ nl:
     quantity: Hoeveelheid
     quantity_returned: Aantal geretourneerd
     quantity_shipped: Aantal verzonden
-    quick_search:
+    quick_search: Snel Zoeken
     rate: Tarief
     reason: Reden
     receive: ontvangen
@@ -1034,7 +1033,7 @@ nl:
     reference: Verwijzing
     refund: Terugbetaling
     refund_amount_must_be_greater_than_zero:
-    refund_reasons:
+    refund_reasons: 
     refunded_amount:
     refunds:
     register: Registreer als een nieuwe gebruiker
@@ -1156,7 +1155,7 @@ nl:
     shipping_method: Verzendwijze
     shipping_methods: Verzendwijzen
     shipping_price_sack: Prijsvork
-    shipping_total:
+    shipping_total: Totaal verzendkosten
     shop_by_taxonomy: Winkelen per %{taxonomy}
     shopping_cart: Winkelwagen
     show: Toon
