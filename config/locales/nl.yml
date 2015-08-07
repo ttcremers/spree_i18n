@@ -1,8 +1,8 @@
 nl:
+  spree/adjustment_labels/tax_rates:
+    including_tax: Inclusief BTW
   activerecord:
     attributes:
-      spree/adjustment_labels/tax_rates:
-        including_tax: Inclusief BTW
       spree/address:
         address1: Adres
         address2: Adres 2
