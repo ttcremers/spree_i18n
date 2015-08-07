@@ -332,6 +332,9 @@ nl:
         one: '1 fout voorkwam dat deze %{resource} werd opgeslagen:'
         other: "%{count} fouten voorkwamen dat deze %{resource} werd opgeslagen:"
   spree:
+    adjustment_labels:
+      tax_rates:
+        including_tax: Inclusief BTW 
     abbreviation: Afkorting
     accept:
     acceptance_errors:
