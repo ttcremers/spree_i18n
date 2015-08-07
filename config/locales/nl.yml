@@ -1,6 +1,4 @@
 nl:
-  spree/adjustment_labels/tax_rates:
-    including_tax: Inclusief BTW
   activerecord:
     attributes:
       spree/address:
@@ -332,9 +330,6 @@ nl:
         one: '1 fout voorkwam dat deze %{resource} werd opgeslagen:'
         other: "%{count} fouten voorkwamen dat deze %{resource} werd opgeslagen:"
   spree:
-    adjustment_labels:
-      tax_rates:
-        including_tax: Inclusief BTW 
     abbreviation: Afkorting
     accept:
     acceptance_errors:
@@ -383,6 +378,10 @@ nl:
     adjustment_successfully_opened: Aanpassing is met succes geopend!
     adjustment_total: Totaal toevoegingen
     adjustments: Toevoegingen
+    adjustment_labels:
+      tax_rates:
+        including_tax: BTW 
+        excluding_tax: Excl. BTW 
     admin:
       tab:
         configuration: Configuratie
