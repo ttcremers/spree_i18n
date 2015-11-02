@@ -340,6 +340,9 @@ nl:
     account: Account
     account_updated: Account bijgewerkt!
     action: Actie
+    shipping_rates:
+      display_price:
+        including_tax: Inclusief BTW
     actions:
       cancel: Annuleer
       continue: Ga verder
