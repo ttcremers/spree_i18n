@@ -331,6 +331,7 @@ nl:
         one: '1 fout voorkwam dat deze %{resource} werd opgeslagen:'
         other: "%{count} fouten voorkwamen dat deze %{resource} werd opgeslagen:"
   spree:
+    promotion_label: Promotie
     abbreviation: Afkorting
     accept:
     acceptance_errors:
