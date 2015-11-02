@@ -84,6 +84,7 @@ nl:
         on_hand: Op voorraad
         shipping_category: Verzendcategorie
         tax_category: Belastingscategorie
+      spree/promotion_label: Promotie
       spree/promotion:
         advertise: Adverteren
         code: Code
